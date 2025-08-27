@@ -1,4 +1,4 @@
-# Author OS – Enhanced Starter Package (v2025-08-26)
+# Shadow OS
 
 This package contains comprehensive planning documents for Wendell's "mech suit" cognitive amplification system.
 Everything here is **textual** (Markdown) with **detailed pseudocode** — no implementation code, but ready for development.
